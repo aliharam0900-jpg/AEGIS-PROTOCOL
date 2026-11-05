@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS PROTOCOL: Adaptive Cyber Evasion",
+  "description": "3D Autonomous Drone Pursuit & Behavioral Profiling Simulator powered by Python A* Search, BFS, Greedy Best-First Search, and KNN Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
